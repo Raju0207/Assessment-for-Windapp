@@ -1,9 +1,8 @@
-#### 1. Install library
-```bash
-    pip install selenium
-```
+Clone the Repo, open terminal in project root directory and run:
 
-#### 2. Run the test from the terminal
-```bash
-    pytest
-```
+   pip install -r requirements.txt
+
+For execute the test cases run the below command in terminal 
+
+  pytest
+
