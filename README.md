@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# selenium-unittest-pom
+# Assessment-for-Windapp
 ### POM = Page Object Model
 =======
 #### 1. Activate Virtual Environment
